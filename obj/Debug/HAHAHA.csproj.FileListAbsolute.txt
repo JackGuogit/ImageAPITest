@@ -1,0 +1,11 @@
+C:\ProgramDoc\winform\HAHAHA\bin\Debug\HAHAHA.exe.config
+C:\ProgramDoc\winform\HAHAHA\bin\Debug\HAHAHA.exe
+C:\ProgramDoc\winform\HAHAHA\bin\Debug\HAHAHA.pdb
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.csproj.AssemblyReference.cache
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.csproj.SuggestedBindingRedirects.cache
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.PicForm.resources
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.Properties.Resources.resources
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.csproj.GenerateResource.cache
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.csproj.CoreCompileInputs.cache
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.exe
+C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.pdb
