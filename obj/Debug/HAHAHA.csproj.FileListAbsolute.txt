@@ -9,3 +9,14 @@ C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.csproj.GenerateResource.cache
 C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.csproj.CoreCompileInputs.cache
 C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.exe
 C:\ProgramDoc\winform\HAHAHA\obj\Debug\HAHAHA.pdb
+E:\Program\VS\WinForm\ImageAPITest\bin\Debug\HAHAHA.exe.config
+E:\Program\VS\WinForm\ImageAPITest\bin\Debug\HAHAHA.exe
+E:\Program\VS\WinForm\ImageAPITest\bin\Debug\HAHAHA.pdb
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.csproj.AssemblyReference.cache
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.csproj.SuggestedBindingRedirects.cache
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.PicForm.resources
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.Properties.Resources.resources
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.csproj.GenerateResource.cache
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.csproj.CoreCompileInputs.cache
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.exe
+E:\Program\VS\WinForm\ImageAPITest\obj\Debug\HAHAHA.pdb
